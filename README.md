@@ -47,18 +47,10 @@ Sales peak occurs in April, followed by a sharp decline mid-year and recovery to
 
 ---
 
-### 🏆 Top 5 Products
+## 🏆 Top 5 Products by Revenue
+![Top Products](images/top_products.png)
 
-| Product                 | Revenue |
-| ----------------------- | ------- |
-| Côte de Blaye           | xxxx    |
-| Thüringer Rostbratwurst | xxxx    |
-| Raclette Courdavault    | xxxx    |
-| Tarte au sucre          | xxxx    |
-| Camembert Pierrot       | xxxx    |
-
-Top-performing products contribute significantly to total revenue, indicating strong product concentration.
-
+Revenue is highly concentrated in top-performing products, with Thüringer Rostbratwurst significantly outperforming others.
 ---
 
 ### 🚚 Shipping Efficiency

@@ -40,11 +40,10 @@ Analyze sales data from an import-export food company to uncover insights on sal
 ---
 ## 📈 Sample Results
 
-### Monthly Sales Trend
+## 📈 Monthly Sales Trend
+![Sales Trend](images/sales_trend.png)
 
-
-
-Sales peak occurs in April, confirming a strong seasonal trend in early-year periods.
+Sales peak occurs in April, followed by a sharp decline mid-year and recovery towards the end of the year, indicating a seasonal pattern.
 
 ---
 

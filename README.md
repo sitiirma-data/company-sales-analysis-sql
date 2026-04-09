@@ -51,6 +51,7 @@ Sales peak occurs in April, followed by a sharp decline mid-year and recovery to
 ![Top Products](images/top_products.png)
 
 Revenue is highly concentrated in top-performing products, with Thüringer Rostbratwurst significantly outperforming others.
+
 ---
 
 ### 🚚 Shipping Efficiency
